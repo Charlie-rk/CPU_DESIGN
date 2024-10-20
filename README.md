@@ -24,7 +24,7 @@ The program reads machine instructions, decodes them, and performs the appropria
 ---
 
 ## **3. Key Components**
-
+The code is designed to **solve data hazards** by implementing mechanisms like hazard detection and **control hazards** by handling branching efficiently. 
 ### **Instruction Memory**
 - **machine_Code**: Stores machine-level instructions.
 - **instruction_Set**: Maps instruction addresses (in binary) to machine instructions.
