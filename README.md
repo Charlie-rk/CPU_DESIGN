@@ -234,6 +234,7 @@ Below is a simplified flowchart describing the program's flow:
 |        End/Repeat Cycle        |
 +-------------------------------+
 
+```
 ## **6. Ending Note**
 
 This project serves as a basic simulation of how **machine-level instructions** are executed on a **RISC-V-like processor**. It incorporates fundamental concepts of pipeline processing, such as instruction fetch, decode, and execution stages, along with memory operations.
